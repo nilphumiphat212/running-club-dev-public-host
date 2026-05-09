@@ -1,0 +1,12 @@
+{
+    "API_KEY": "Crn4LW3YsGciZHMB02Ql5w9uJvuxy6tn1O9BJ2mT9NdlQUhV",
+    "AZURE_CLIENT_ID": "0e2166f6-0522-4bb3-81c1-ea0b785de983",
+    "AZURE_TENANT_ID": "c03b7ea5-365c-4a0f-b767-955babc64911",
+    "BASE_URL": "https://running-club.apps.pttep.com/",
+    "BASE_URL_API": "https://endpoint.api.pttep.com/",
+    "BASE_URL_SERVICE": "https://endpoint.api.pttep.com/running-club/",
+    "BASE_URL_SERVICE_": "http://localhost:8080/",
+    "ENV": "prod",
+    "GCS_BUCKET_NAME": "running-app",
+    "X_SERVICE_NAME": "Running-Club-App"
+}
